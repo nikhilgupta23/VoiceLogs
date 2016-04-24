@@ -1,0 +1,20 @@
+D:\ProjectOxford-ClientSDK-master\ProjectOxford-ClientSDK-master\SpeakerRecognition\Windows\ClientLibrary\bin\Debug\Microsoft.ProjectOxford.SpeakerRecognition.dll
+D:\ProjectOxford-ClientSDK-master\ProjectOxford-ClientSDK-master\SpeakerRecognition\Windows\ClientLibrary\bin\Debug\Microsoft.ProjectOxford.SpeakerRecognition.pdb
+D:\ProjectOxford-ClientSDK-master\ProjectOxford-ClientSDK-master\SpeakerRecognition\Windows\ClientLibrary\bin\Debug\Newtonsoft.Json.dll
+D:\ProjectOxford-ClientSDK-master\ProjectOxford-ClientSDK-master\SpeakerRecognition\Windows\ClientLibrary\bin\Debug\Newtonsoft.Json.xml
+D:\ProjectOxford-ClientSDK-master\ProjectOxford-ClientSDK-master\SpeakerRecognition\Windows\ClientLibrary\obj\Debug\ClientLibrary.csprojResolveAssemblyReference.cache
+D:\ProjectOxford-ClientSDK-master\ProjectOxford-ClientSDK-master\SpeakerRecognition\Windows\ClientLibrary\obj\Debug\Microsoft.ProjectOxford.SpeakerRecognition.dll
+D:\ProjectOxford-ClientSDK-master\ProjectOxford-ClientSDK-master\SpeakerRecognition\Windows\ClientLibrary\obj\Debug\Microsoft.ProjectOxford.SpeakerRecognition.pdb
+C:\Users\Nikhil Gupta\Desktop\ClientLibrary\bin\Debug\Microsoft.ProjectOxford.SpeakerRecognition.dll.config
+C:\Users\Nikhil Gupta\Desktop\ClientLibrary\bin\Debug\Microsoft.ProjectOxford.SpeakerRecognition.dll
+C:\Users\Nikhil Gupta\Desktop\ClientLibrary\bin\Debug\Microsoft.ProjectOxford.SpeakerRecognition.pdb
+C:\Users\Nikhil Gupta\Desktop\ClientLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nikhil Gupta\Desktop\ClientLibrary\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Nikhil Gupta\Desktop\ClientLibrary\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Nikhil Gupta\Desktop\ClientLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Nikhil Gupta\Desktop\ClientLibrary\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Nikhil Gupta\Desktop\ClientLibrary\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Nikhil Gupta\Desktop\ClientLibrary\obj\Debug\ClientLibrary.csproj.App.config
+C:\Users\Nikhil Gupta\Desktop\ClientLibrary\obj\Debug\ClientLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Nikhil Gupta\Desktop\ClientLibrary\obj\Debug\Microsoft.ProjectOxford.SpeakerRecognition.dll
+C:\Users\Nikhil Gupta\Desktop\ClientLibrary\obj\Debug\Microsoft.ProjectOxford.SpeakerRecognition.pdb

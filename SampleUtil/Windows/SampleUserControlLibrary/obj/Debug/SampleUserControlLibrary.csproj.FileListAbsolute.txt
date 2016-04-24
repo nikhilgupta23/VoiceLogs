@@ -1,0 +1,41 @@
+D:\ProjectOxford-ClientSDK-master\ProjectOxford-ClientSDK-master\SampleUtil\Windows\SampleUserControlLibrary\obj\Debug\SampleUserControlLibrary.csprojResolveAssemblyReference.cache
+D:\ProjectOxford-ClientSDK-master\ProjectOxford-ClientSDK-master\SampleUtil\Windows\SampleUserControlLibrary\obj\Debug\SampleUserControl.g.cs
+D:\ProjectOxford-ClientSDK-master\ProjectOxford-ClientSDK-master\SampleUtil\Windows\SampleUserControlLibrary\obj\Debug\SubscriptionKeyPage.g.cs
+D:\ProjectOxford-ClientSDK-master\ProjectOxford-ClientSDK-master\SampleUtil\Windows\SampleUserControlLibrary\obj\Debug\VideoResultControl.g.cs
+D:\ProjectOxford-ClientSDK-master\ProjectOxford-ClientSDK-master\SampleUtil\Windows\SampleUserControlLibrary\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\ProjectOxford-ClientSDK-master\ProjectOxford-ClientSDK-master\SampleUtil\Windows\SampleUserControlLibrary\obj\Debug\SampleUserControlLibrary_MarkupCompile.cache
+D:\ProjectOxford-ClientSDK-master\ProjectOxford-ClientSDK-master\SampleUtil\Windows\SampleUserControlLibrary\obj\Debug\SampleUserControlLibrary_MarkupCompile.lref
+D:\ProjectOxford-ClientSDK-master\ProjectOxford-ClientSDK-master\SampleUtil\Windows\SampleUserControlLibrary\bin\Debug\SampleUserControlLibrary.dll
+D:\ProjectOxford-ClientSDK-master\ProjectOxford-ClientSDK-master\SampleUtil\Windows\SampleUserControlLibrary\bin\Debug\SampleUserControlLibrary.pdb
+D:\ProjectOxford-ClientSDK-master\ProjectOxford-ClientSDK-master\SampleUtil\Windows\SampleUserControlLibrary\obj\Debug\SampleUserControl.baml
+D:\ProjectOxford-ClientSDK-master\ProjectOxford-ClientSDK-master\SampleUtil\Windows\SampleUserControlLibrary\obj\Debug\SubscriptionKeyPage.baml
+D:\ProjectOxford-ClientSDK-master\ProjectOxford-ClientSDK-master\SampleUtil\Windows\SampleUserControlLibrary\obj\Debug\VideoResultControl.baml
+D:\ProjectOxford-ClientSDK-master\ProjectOxford-ClientSDK-master\SampleUtil\Windows\SampleUserControlLibrary\obj\Debug\SampleUserControlLibrary.g.resources
+D:\ProjectOxford-ClientSDK-master\ProjectOxford-ClientSDK-master\SampleUtil\Windows\SampleUserControlLibrary\obj\Debug\SampleUserControlLibrary.SampleUserControlLibrary.Properties.Resources.resources
+D:\ProjectOxford-ClientSDK-master\ProjectOxford-ClientSDK-master\SampleUtil\Windows\SampleUserControlLibrary\obj\Debug\SampleUserControlLibrary.csproj.GenerateResource.Cache
+D:\ProjectOxford-ClientSDK-master\ProjectOxford-ClientSDK-master\SampleUtil\Windows\SampleUserControlLibrary\obj\Debug\SampleUserControlLibrary.dll
+D:\ProjectOxford-ClientSDK-master\ProjectOxford-ClientSDK-master\SampleUtil\Windows\SampleUserControlLibrary\obj\Debug\SampleUserControlLibrary.pdb
+C:\Users\Nikhil Gupta\Desktop\SampleUtil\Windows\SampleUserControlLibrary\bin\Debug\SampleUserControlLibrary.dll.config
+C:\Users\Nikhil Gupta\Desktop\SampleUtil\Windows\SampleUserControlLibrary\bin\Debug\SampleUserControlLibrary.dll
+C:\Users\Nikhil Gupta\Desktop\SampleUtil\Windows\SampleUserControlLibrary\bin\Debug\SampleUserControlLibrary.pdb
+C:\Users\Nikhil Gupta\Desktop\SampleUtil\Windows\SampleUserControlLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nikhil Gupta\Desktop\SampleUtil\Windows\SampleUserControlLibrary\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Nikhil Gupta\Desktop\SampleUtil\Windows\SampleUserControlLibrary\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Nikhil Gupta\Desktop\SampleUtil\Windows\SampleUserControlLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Nikhil Gupta\Desktop\SampleUtil\Windows\SampleUserControlLibrary\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Nikhil Gupta\Desktop\SampleUtil\Windows\SampleUserControlLibrary\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Nikhil Gupta\Desktop\SampleUtil\Windows\SampleUserControlLibrary\obj\Debug\SampleUserControlLibrary.csproj.App.config
+C:\Users\Nikhil Gupta\Desktop\SampleUtil\Windows\SampleUserControlLibrary\obj\Debug\SampleUserControl.g.cs
+C:\Users\Nikhil Gupta\Desktop\SampleUtil\Windows\SampleUserControlLibrary\obj\Debug\SubscriptionKeyPage.g.cs
+C:\Users\Nikhil Gupta\Desktop\SampleUtil\Windows\SampleUserControlLibrary\obj\Debug\VideoResultControl.g.cs
+C:\Users\Nikhil Gupta\Desktop\SampleUtil\Windows\SampleUserControlLibrary\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Nikhil Gupta\Desktop\SampleUtil\Windows\SampleUserControlLibrary\obj\Debug\SampleUserControlLibrary_MarkupCompile.cache
+C:\Users\Nikhil Gupta\Desktop\SampleUtil\Windows\SampleUserControlLibrary\obj\Debug\SampleUserControlLibrary_MarkupCompile.lref
+C:\Users\Nikhil Gupta\Desktop\SampleUtil\Windows\SampleUserControlLibrary\obj\Debug\SampleUserControl.baml
+C:\Users\Nikhil Gupta\Desktop\SampleUtil\Windows\SampleUserControlLibrary\obj\Debug\SubscriptionKeyPage.baml
+C:\Users\Nikhil Gupta\Desktop\SampleUtil\Windows\SampleUserControlLibrary\obj\Debug\VideoResultControl.baml
+C:\Users\Nikhil Gupta\Desktop\SampleUtil\Windows\SampleUserControlLibrary\obj\Debug\SampleUserControlLibrary.g.resources
+C:\Users\Nikhil Gupta\Desktop\SampleUtil\Windows\SampleUserControlLibrary\obj\Debug\SampleUserControlLibrary.SampleUserControlLibrary.Properties.Resources.resources
+C:\Users\Nikhil Gupta\Desktop\SampleUtil\Windows\SampleUserControlLibrary\obj\Debug\SampleUserControlLibrary.csproj.GenerateResource.Cache
+C:\Users\Nikhil Gupta\Desktop\SampleUtil\Windows\SampleUserControlLibrary\obj\Debug\SampleUserControlLibrary.dll
+C:\Users\Nikhil Gupta\Desktop\SampleUtil\Windows\SampleUserControlLibrary\obj\Debug\SampleUserControlLibrary.pdb

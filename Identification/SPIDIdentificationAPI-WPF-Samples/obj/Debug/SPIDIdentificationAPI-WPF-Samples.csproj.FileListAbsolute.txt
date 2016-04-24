@@ -1,0 +1,47 @@
+D:\ProjectOxford-ClientSDK-master\ProjectOxford-ClientSDK-master\SpeakerRecognition\Windows\Identification\SPIDIdentificationAPI-WPF-Samples\bin\Debug\SPIDIdentificationAPI_WPF_Samples.exe.config
+D:\ProjectOxford-ClientSDK-master\ProjectOxford-ClientSDK-master\SpeakerRecognition\Windows\Identification\SPIDIdentificationAPI-WPF-Samples\obj\Debug\SPIDIdentificationAPI-WPF-Samples.csprojResolveAssemblyReference.cache
+D:\ProjectOxford-ClientSDK-master\ProjectOxford-ClientSDK-master\SpeakerRecognition\Windows\Identification\SPIDIdentificationAPI-WPF-Samples\obj\Debug\EnrollSpeakersPage.baml
+D:\ProjectOxford-ClientSDK-master\ProjectOxford-ClientSDK-master\SpeakerRecognition\Windows\Identification\SPIDIdentificationAPI-WPF-Samples\obj\Debug\IdentifyFilePage.baml
+D:\ProjectOxford-ClientSDK-master\ProjectOxford-ClientSDK-master\SpeakerRecognition\Windows\Identification\SPIDIdentificationAPI-WPF-Samples\obj\Debug\SpeakersListPage.baml
+D:\ProjectOxford-ClientSDK-master\ProjectOxford-ClientSDK-master\SpeakerRecognition\Windows\Identification\SPIDIdentificationAPI-WPF-Samples\obj\Debug\EnrollSpeakersPage.g.cs
+D:\ProjectOxford-ClientSDK-master\ProjectOxford-ClientSDK-master\SpeakerRecognition\Windows\Identification\SPIDIdentificationAPI-WPF-Samples\obj\Debug\IdentifyFilePage.g.cs
+D:\ProjectOxford-ClientSDK-master\ProjectOxford-ClientSDK-master\SpeakerRecognition\Windows\Identification\SPIDIdentificationAPI-WPF-Samples\obj\Debug\SpeakersListPage.g.cs
+D:\ProjectOxford-ClientSDK-master\ProjectOxford-ClientSDK-master\SpeakerRecognition\Windows\Identification\SPIDIdentificationAPI-WPF-Samples\obj\Debug\App.g.cs
+D:\ProjectOxford-ClientSDK-master\ProjectOxford-ClientSDK-master\SpeakerRecognition\Windows\Identification\SPIDIdentificationAPI-WPF-Samples\obj\Debug\SPIDIdentificationAPI_WPF_Samples_MarkupCompile.cache
+D:\ProjectOxford-ClientSDK-master\ProjectOxford-ClientSDK-master\SpeakerRecognition\Windows\Identification\SPIDIdentificationAPI-WPF-Samples\obj\Debug\MainWindow.g.cs
+D:\ProjectOxford-ClientSDK-master\ProjectOxford-ClientSDK-master\SpeakerRecognition\Windows\Identification\SPIDIdentificationAPI-WPF-Samples\obj\Debug\SPIDIdentificationAPI_WPF_Samples_MarkupCompile.lref
+C:\Users\Nikhil Gupta\Desktop\Identification\SPIDIdentificationAPI-WPF-Samples\obj\Debug\SPIDIdentificationAPI-WPF-Samples.csproj.App.config
+C:\Users\Nikhil Gupta\Desktop\Identification\SPIDIdentificationAPI-WPF-Samples\obj\Debug\SPIDIdentificationAPI-WPF-Samples.csprojResolveAssemblyReference.cache
+C:\Users\Nikhil Gupta\Desktop\Identification\SPIDIdentificationAPI-WPF-Samples\obj\Debug\EnrollSpeakersPage.baml
+C:\Users\Nikhil Gupta\Desktop\Identification\SPIDIdentificationAPI-WPF-Samples\obj\Debug\IdentifyFilePage.baml
+C:\Users\Nikhil Gupta\Desktop\Identification\SPIDIdentificationAPI-WPF-Samples\obj\Debug\SpeakersListPage.baml
+C:\Users\Nikhil Gupta\Desktop\Identification\SPIDIdentificationAPI-WPF-Samples\obj\Debug\EnrollSpeakersPage.g.cs
+C:\Users\Nikhil Gupta\Desktop\Identification\SPIDIdentificationAPI-WPF-Samples\obj\Debug\IdentifyFilePage.g.cs
+C:\Users\Nikhil Gupta\Desktop\Identification\SPIDIdentificationAPI-WPF-Samples\obj\Debug\MainWindow.g.cs
+C:\Users\Nikhil Gupta\Desktop\Identification\SPIDIdentificationAPI-WPF-Samples\obj\Debug\SpeakersListPage.g.cs
+C:\Users\Nikhil Gupta\Desktop\Identification\SPIDIdentificationAPI-WPF-Samples\obj\Debug\App.g.cs
+C:\Users\Nikhil Gupta\Desktop\Identification\SPIDIdentificationAPI-WPF-Samples\obj\Debug\SPIDIdentificationAPI_WPF_Samples_MarkupCompile.cache
+C:\Users\Nikhil Gupta\Desktop\Identification\SPIDIdentificationAPI-WPF-Samples\obj\Debug\SPIDIdentificationAPI_WPF_Samples_MarkupCompile.lref
+C:\Users\Nikhil Gupta\Desktop\Identification\SPIDIdentificationAPI-WPF-Samples\bin\Debug\SPIDIdentificationAPI_WPF_Samples.exe.config
+C:\Users\Nikhil Gupta\Desktop\Identification\SPIDIdentificationAPI-WPF-Samples\bin\Debug\SPIDIdentificationAPI_WPF_Samples.exe
+C:\Users\Nikhil Gupta\Desktop\Identification\SPIDIdentificationAPI-WPF-Samples\bin\Debug\SPIDIdentificationAPI_WPF_Samples.pdb
+C:\Users\Nikhil Gupta\Desktop\Identification\SPIDIdentificationAPI-WPF-Samples\bin\Debug\Microsoft.ProjectOxford.SpeakerRecognition.dll
+C:\Users\Nikhil Gupta\Desktop\Identification\SPIDIdentificationAPI-WPF-Samples\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nikhil Gupta\Desktop\Identification\SPIDIdentificationAPI-WPF-Samples\bin\Debug\SampleUserControlLibrary.dll
+C:\Users\Nikhil Gupta\Desktop\Identification\SPIDIdentificationAPI-WPF-Samples\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Nikhil Gupta\Desktop\Identification\SPIDIdentificationAPI-WPF-Samples\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Nikhil Gupta\Desktop\Identification\SPIDIdentificationAPI-WPF-Samples\bin\Debug\Microsoft.ProjectOxford.SpeakerRecognition.pdb
+C:\Users\Nikhil Gupta\Desktop\Identification\SPIDIdentificationAPI-WPF-Samples\bin\Debug\SampleUserControlLibrary.pdb
+C:\Users\Nikhil Gupta\Desktop\Identification\SPIDIdentificationAPI-WPF-Samples\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Nikhil Gupta\Desktop\Identification\SPIDIdentificationAPI-WPF-Samples\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Nikhil Gupta\Desktop\Identification\SPIDIdentificationAPI-WPF-Samples\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Nikhil Gupta\Desktop\Identification\SPIDIdentificationAPI-WPF-Samples\obj\Debug\MainWindow.baml
+C:\Users\Nikhil Gupta\Desktop\Identification\SPIDIdentificationAPI-WPF-Samples\obj\Debug\SPIDIdentificationAPI_WPF_Samples.g.resources
+C:\Users\Nikhil Gupta\Desktop\Identification\SPIDIdentificationAPI-WPF-Samples\obj\Debug\SPIDIdentificationAPI_WPF_Samples.Properties.Resources.resources
+C:\Users\Nikhil Gupta\Desktop\Identification\SPIDIdentificationAPI-WPF-Samples\obj\Debug\SPIDIdentificationAPI-WPF-Samples.csproj.GenerateResource.Cache
+C:\Users\Nikhil Gupta\Desktop\Identification\SPIDIdentificationAPI-WPF-Samples\obj\Debug\SPIDIdentificationAPI_WPF_Samples.exe
+C:\Users\Nikhil Gupta\Desktop\Identification\SPIDIdentificationAPI-WPF-Samples\obj\Debug\SPIDIdentificationAPI_WPF_Samples.pdb
+C:\Users\Nikhil Gupta\Desktop\Identification\SPIDIdentificationAPI-WPF-Samples\bin\Debug\NAudio.dll
+C:\Users\Nikhil Gupta\Desktop\Identification\SPIDIdentificationAPI-WPF-Samples\bin\Debug\NAudio.xml
+C:\Users\Nikhil Gupta\Desktop\Identification\SPIDIdentificationAPI-WPF-Samples\obj\Debug\RecordConversationPage.baml
+C:\Users\Nikhil Gupta\Desktop\Identification\SPIDIdentificationAPI-WPF-Samples\obj\Debug\RecordConversationPage.g.cs
