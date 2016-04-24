@@ -71,7 +71,8 @@ namespace SPIDIdentificationAPI_WPF_Samples
                 sourceStream = null;
                 writer.Dispose();
                 writer.Close();
-                identify();
+                bw = new BackgroundWorker();
+                //identify();
             }
 
         }    
@@ -84,19 +85,20 @@ namespace SPIDIdentificationAPI_WPF_Samples
             writer = new WaveFileWriter(_selectedFile, new WaveFormat(16000, 1));
             MainWindow window = (MainWindow)Application.Current.MainWindow;
             _serviceClient = new SpeakerIdentificationServiceClient(window.ScenarioControl.SubscriptionKey);
-            bw = new BackgroundWorker();
+            
 
                bw.DoWork += new DoWorkEventHandler(
            delegate(object o, DoWorkEventArgs args)
            {
                BackgroundWorker b = o as BackgroundWorker;
-               audioText = readAudio();
+               audioText = readAudio(_selectedFile);
            });
 
 
                 bw.RunWorkerCompleted += new RunWorkerCompletedEventHandler(
            delegate(object o, RunWorkerCompletedEventArgs args)
            {
+               identify(audioText);
                //textBlock.Text = audioText;
            });
 
@@ -146,8 +148,12 @@ namespace SPIDIdentificationAPI_WPF_Samples
                     writer.Dispose();
                     //writer.Close();
                     
-                    identify();
-                    _selectedFile = _selectedFile.Substring(0, _selectedFile.Length - 5) + count1 + ".wav";
+                    
+                    bw = new BackgroundWorker();
+                    //identify();
+                    while (bw.IsBusy) ;
+                    
+                        _selectedFile = _selectedFile.Substring(0, _selectedFile.Length - 5) + count1 + ".wav";
                     writer = new WaveFileWriter(_selectedFile, new WaveFormat(16000, 1));
                     previous = 0;
                     count1++;
@@ -158,7 +164,7 @@ namespace SPIDIdentificationAPI_WPF_Samples
                 sourceStream.StopRecording();
                 writer.Dispose();
                 writer.Close();
-                identify();
+                //identify();
                 //writer.WriteData(e.Buffer, 0, e.BytesRecorded);
             }
             //if (recordingState == RecordingState.Recording)
@@ -219,7 +225,7 @@ namespace SPIDIdentificationAPI_WPF_Samples
             }
 
         }
-        private async void identify()
+        private async void identify(string ou)
         {
             MainWindow window = (MainWindow)Application.Current.MainWindow;
             try
@@ -274,6 +280,7 @@ namespace SPIDIdentificationAPI_WPF_Samples
 
                 window.Log("Identification Done.");
                 tblock.Text = count + identificationResponse.ProcessingResult.IdentifiedProfileId.ToString();
+                output.Text += "\n" + identificationResponse.ProcessingResult.IdentifiedProfileId.ToString() +":" + ou;
                 count++;
                 //_identificationResultTxtBlk.Text = identificationResponse.ProcessingResult.IdentifiedProfileId.ToString();
                 //_identificationConfidenceTxtBlk.Text = identificationResponse.ProcessingResult.Confidence.ToString();
@@ -294,11 +301,11 @@ namespace SPIDIdentificationAPI_WPF_Samples
         }
 
 
-        public string readAudio(){
+        public string readAudio(string file){
             SpeechRecognitionEngine sre = new SpeechRecognitionEngine();
             Grammar gr = new DictationGrammar();
             sre.LoadGrammar(gr);
-            sre.SetInputToWaveFile("C:\\Users\\Daveo30\\Music\\nikhilshort.wav");
+            sre.SetInputToWaveFile(file);
             sre.BabbleTimeout = new TimeSpan(Int32.MaxValue);
             sre.InitialSilenceTimeout = new TimeSpan(Int32.MaxValue);
             sre.EndSilenceTimeout = new TimeSpan(100000000);
